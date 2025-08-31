@@ -9,6 +9,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=UtkarshChauhann&color=blue&style=flat-square)
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -56,9 +60,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=UtkarshChauhann&color=blue&style=flat-square)
-
----
 
 ## 🎯 Goals
 - 📌 Master **DSA** by solving problems daily  
