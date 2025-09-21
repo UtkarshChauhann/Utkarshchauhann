@@ -1,17 +1,16 @@
-# Hi there, I'm Utkarsh Chauhan 👋
+# Hi, I'm Utkarsh Chauhan 👋   
 
-🚀 Passionate **B.Tech 3rd Year Student** | 💻 **Web Developer** | ⚡ **Tech Enthusiast**
-
+🎓 3rd-year B.Tech CSE (Data Science) student at PSIT Kanpur  
+💻 Passionate about **Data Structures & Algorithms, Web Development, Cloud, and DevOps**  
+🚀 Currently learning and building projects with the **MERN Stack & AWS Cloud**  
+📚 Consistently solving **LeetCode problems** to strengthen problem-solving skills  
+🌱 Aspiring **Software Engineer | Cloud Enthusiast | Full-Stack Developer**  
+ 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Currently pursuing **B.Tech in Computer Science(Data Science)**  
-- 🌱 Learning **MERN Stack & DevOps**  
-- 💡 Interested in **DSA, Web Development, and Cloud Technologies**  
-- 🎸 Outside coding, I enjoy **music, guitar, and exploring new tech**  
+![Profile Views](https://komarev.com/ghpvc/?username=UtkarshChauhann&color=blue&style=flat-square)
 
 ---
-
 ## 🛠️ Tech Stack
 <p align="center">
   <!-- Languages -->
@@ -44,20 +43,44 @@
 
 ---
 
-## 🚀 Competitive Programming
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Utkarsh_Chauhann?theme=dark&font=Karma&ext=activity"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshChauhann&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!--
 ---
 
-## 🌟 Featured Projects
-- 📌 [Project 1 - Your Cool Web App](https://github.com/UtkarshChauhann/Project1)  
-- 📌 [Project 2 - MERN Stack Application](https://github.com/UtkarshChauhann/Project2)  
-- 📌 [More Projects...](https://github.com/UtkarshChauhann?tab=repositories)  
--->
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshChauhann&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
 ---
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Utkarsh_Chauhann?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
+
+## 🎯 Goals
+- 📌 Master **DSA** by solving problems daily  
+- 🚀 Build **Full-Stack Web Apps** with MERN  
+- ☁️ Explore and upskill in **Cloud & DevOps (AWS, CI/CD, Docker, Kubernetes)**  
+- 🎯 Contribute to **Open Source**  
+
+---
+
+✨ *Consistency > Intensity — Keep building & keep learning!* 🚀
+
+---
+
 
 ## 📫 Connect with Me
 <p align="center">
@@ -68,3 +91,4 @@
 ---
 
 ⭐ From [UtkarshChauhann](https://github.com/UtkarshChauhann)
+
