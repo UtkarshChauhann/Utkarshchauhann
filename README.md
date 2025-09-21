@@ -41,20 +41,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshChauhann&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
+
 ---
 
 ## 🚀 Competitive Programming
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/UtkarshChauhann?theme=dark&font=Karma&ext=activity"/>
+  <img src="https://leetcard.jacoblin.cool/Utkarsh_Chauhann?theme=dark&font=Karma&ext=activity"/>
 </p>
 
+<!--
 ---
 
 ## 🌟 Featured Projects
 - 📌 [Project 1 - Your Cool Web App](https://github.com/UtkarshChauhann/Project1)  
 - 📌 [Project 2 - MERN Stack Application](https://github.com/UtkarshChauhann/Project2)  
 - 📌 [More Projects...](https://github.com/UtkarshChauhann?tab=repositories)  
-
+-->
 ---
 
 ## 📫 Connect with Me
