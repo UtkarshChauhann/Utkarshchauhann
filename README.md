@@ -38,16 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UtkarshChauhann&show_icons=true&theme=radical" alt="Utkarsh's GitHub stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshChauhann&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
-
----
-
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshChauhann&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-2201&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </p>
 
 ---
