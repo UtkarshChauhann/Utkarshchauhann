@@ -4,7 +4,7 @@
 💻 Passionate about **Data Structures & Algorithms, Web Development, Cloud, and DevOps**  
 🚀 Currently learning and building projects with the **MERN Stack & AWS Cloud**  
 📚 Consistently solving **LeetCode problems** to strengthen problem-solving skills  
-🌱 Aspiring **Software Engineer | Cloud Enthusiast | Full Stack Developer**  
+🌱 Aspiring **Software Engineer | Cloud Enthusiast | Full-Stack Developer**  
  
 ---
 
